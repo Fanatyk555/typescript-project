@@ -1,0 +1,11 @@
+.quest{
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.quest:hover{
+  background-color: rgb(202, 202, 202) !important;
+}
+.MuiListItem-root.Mui-selected>.MuiListItemText-root{
+  text-decoration: line-through;
+} 
